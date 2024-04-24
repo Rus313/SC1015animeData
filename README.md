@@ -4,7 +4,7 @@
 This project aims to predict the quality (rating) of anime based on tags (genres) using machine learning techniques. The dataset used for this project is obtained from Kaggle, consisting of web-scraped data from animeplanet.com. We explore the correlation between tags and ratings to enhance the recommendation system for anime enthusiasts.
 
 ## Contributors
-- [Raye]() - Data Visualisation & Data Extraction
+- [Raye]() - Data Visualisation & Data Preparation
 - [Gabriel]() - Linear Regression
 - [Rusyaidi](https://github.com/Rus313) - Random Forest Regression
 
@@ -24,7 +24,8 @@ Through this project, we have explored various machine learning techniques to pr
 - Other metrics should also be considered. For example, animation studio, storyboard artists, year the anime was created and more.
 
 ## References
-- [Kaggle Dataset: Anime Database](https://www.kaggle.com/)
+- [Slides](https://docs.google.com/presentation/d/15uewYajxFmHwgMXu1xQcr7wro2uwkSfDX2fB7V3CITA/edit?usp=sharing)
+- [Kaggle Dataset: Anime Database](https://www.kaggle.com/datasets/itsnobita/anime-details)
 - [Sklearn Documentation: Random Forest Regression](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 - [GeeksforGeeks: Random Forest Regression in Python](https://www.geeksforgeeks.org/random-forest-regression-in-python/)
 - [Markdown Guide](https://www.markdownguide.org/)
