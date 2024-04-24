@@ -4,8 +4,8 @@
 This project aims to predict the quality (rating) of anime based on tags (genres) using machine learning techniques. The dataset used for this project is obtained from Kaggle, consisting of web-scraped data from animeplanet.com. We explore the correlation between tags and ratings to enhance the recommendation system for anime enthusiasts.
 
 ## Contributors
-- [Raye](https://github.com/contributor1)
-- [Gabriel](https://github.com/contributor2)
+- [Raye]()
+- [Gabriel]()
 - [Rusyaidi](https://github.com/Rus313)
 
 ## Problem Definition
