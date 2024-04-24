@@ -1,5 +1,7 @@
 # Anime Rating Prediction SC1015 Mini Project
 
+![anime](https://github.com/Rus313/SC1015animeData/assets/66861418/fceed724-4f81-4222-8457-18eceb539cb1)
+
 ## About
 This project aims to predict the quality (rating) of anime based on tags (genres) using machine learning techniques. The dataset used for this project is obtained from Kaggle, consisting of web-scraped data from animeplanet.com. We explore the correlation between tags and ratings to enhance the recommendation system for anime enthusiasts.
 
