@@ -26,4 +26,5 @@ Through this project, we have explored various machine learning techniques to pr
 ## References
 - [Kaggle Dataset: Anime Database](https://www.kaggle.com/)
 - [Sklearn Documentation: Random Forest Regression](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+- [GeeksforGeeks: Random Forest Regression in Python](https://www.geeksforgeeks.org/random-forest-regression-in-python/)
 - [Markdown Guide](https://www.markdownguide.org/)
